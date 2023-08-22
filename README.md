@@ -3,10 +3,10 @@
 
 
 ```
-This is a project give decription of weather in different cities across india 
+This is a project give decription of weather in different cities across india.
 ```
 
-## tech stack
+## Tech stack
 - Html
 - Css
 - javaScript
